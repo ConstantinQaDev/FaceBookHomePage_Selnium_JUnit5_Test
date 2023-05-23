@@ -1,4 +1,4 @@
-package com.M10_FBPage_Locators.core;
+package com.M10_FBPage.core;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

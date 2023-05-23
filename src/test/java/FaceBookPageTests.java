@@ -1,4 +1,4 @@
-import com.M10_FBPage_Locators.FaceBookPage;
+import com.M10_FBPage.FaceBookPage;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.stream.Stream;
 
-import static com.M10_FBPage_Locators.core.Constants.FACEBOOK_HOME_PAGE_URL;
+import static com.M10_FBPage.core.Constants.FACEBOOK_HOME_PAGE_URL;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 

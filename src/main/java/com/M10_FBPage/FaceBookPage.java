@@ -1,6 +1,6 @@
-package com.M10_FBPage_Locators;
+package com.M10_FBPage;
 
-import com.M10_FBPage_Locators.core.PageBase;
+import com.M10_FBPage.core.PageBase;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
